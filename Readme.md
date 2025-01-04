@@ -1,6 +1,6 @@
 # Self-Driving Car
 
-This repository features a behavior copying model for self-driving cars, where the car learns to imitate human driving behavior. The project is based on a simulator from a Udemy course. The model uses user-trained `.h5` files for testing.
+This repository features a behavior copying model for self-driving cars, where the car learns to imitate human driving behavior. The model uses user-trained `.h5` files for testing.
 
 ## Features
 - Behavior copying using neural networks.
